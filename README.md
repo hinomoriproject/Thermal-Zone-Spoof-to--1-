@@ -67,3 +67,4 @@ disediakan saat proses install (`customize.sh`).
 
 MIT — lihat [LICENSE](LICENSE).
 # Thermal-Zone-Spoof-to--1-
+# Thermal-Zone-Spoof-to--1-
